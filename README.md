@@ -1,5 +1,5 @@
 # CS224n-Projects
-Implementation of assignments for the course [Natural Language Processing (CS224n)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/), Winter 2019.
+Implementation of assignments for the course [Natural Language Processing with Deep Learning (CS224n)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/), Winter 2019.
 
 The project includes word vectors (a2), dependency parsing (a3), neural machine translation (a4), and character-based NMT (a5).
 
